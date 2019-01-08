@@ -1,2 +1,3 @@
-alert('hi');
-document.getElementById("form01-voornaam").value = 'hoi';
+alert('hi2');
+
+  document.getElementById("form01-voornaam").setAttribute('value','My default value');
